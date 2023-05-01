@@ -1,5 +1,5 @@
 {
-  "name": "package",
+  "name": "finite-state-machine",
   "tree": {
     "$path": "src"
   }
