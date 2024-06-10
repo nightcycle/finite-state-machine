@@ -1,2 +1,2 @@
-# package
-A basic template for whenever I make a wally package
+# finite-state-machine
+A basic fsm
